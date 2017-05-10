@@ -62,7 +62,7 @@ public class WelcomeActivity extends AppCompatActivity {
 
         // adding bottom dots
         addBottomDots(0);
-        //some changes
+        
 
         // making notification bar transparent
         changeStatusBarColor();
